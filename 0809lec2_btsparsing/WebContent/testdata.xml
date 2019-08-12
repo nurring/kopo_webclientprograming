@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<datas>
+
+
+	-
+	<data>
+
+		<name>김남준</name>
+
+		<studentid>209901</studentid>
+
+		<kor>95</kor>
+
+		<eng>100</eng>
+
+		<mat>95</mat>
+
+	</data>
+
+
+	-
+	<data>
+
+		<name>김석진</name>
+
+		<studentid>209902</studentid>
+
+		<kor>95</kor>
+
+		<eng>95</eng>
+
+		<mat>95</mat>
+
+	</data>
+
+
+	-
+	<data>
+
+		<name>민윤기</name>
+
+		<studentid>209903</studentid>
+
+		<kor>100</kor>
+
+		<eng>100</eng>
+
+		<mat>100</mat>
+
+	</data>
+
+
+	-
+	<data>
+
+		<name>정호석</name>
+
+		<studentid>209904</studentid>
+
+		<kor>100</kor>
+
+		<eng>95</eng>
+
+		<mat>90</mat>
+
+	</data>
+
+
+	-
+	<data>
+
+		<name>박지민</name>
+
+		<studentid>209905</studentid>
+
+		<kor>80</kor>
+
+		<eng>100</eng>
+
+		<mat>70</mat>
+
+	</data>
+
+
+	-
+	<data>
+
+		<name>김태형</name>
+
+		<studentid>209906</studentid>
+
+		<kor>100</kor>
+
+		<eng>100</eng>
+
+		<mat>70</mat>
+
+	</data>
+
+
+	-
+	<data>
+
+		<name>전정국</name>
+
+		<studentid>209907</studentid>
+
+		<kor>70</kor>
+
+		<eng>70</eng>
+
+		<mat>70</mat>
+
+	</data>
+
+
+	-
+	<data>
+
+		<name>전정0</name>
+
+		<studentid>209908</studentid>
+
+		<kor>7</kor>
+
+		<eng>6</eng>
+
+		<mat>1</mat>
+
+	</data>
+
+
+	-
+	<data>
+
+		<name>전정1</name>
+
+		<studentid>209909</studentid>
+
+		<kor>35</kor>
+
+		<eng>13</eng>
+
+		<mat>15</mat>
+
+	</data>
+
+
+	-
+	<data>
+
+		<name>전정2</name>
+
+		<studentid>209910</studentid>
+
+		<kor>15</kor>
+
+		<eng>7</eng>
+
+		<mat>48</mat>
+
+	</data>
+
+
+	-
+	<data>
+
+		<name>전정3</name>
+
+		<studentid>209911</studentid>
+
+		<kor>89</kor>
+
+		<eng>82</eng>
+
+		<mat>70</mat>
+
+	</data>
+
+
+	-
+	<data>
+
+		<name>전정4</name>
+
+		<studentid>209912</studentid>
+
+		<kor>46</kor>
+
+		<eng>62</eng>
+
+		<mat>92</mat>
+
+	</data>
+
+
+	-
+	<data>
+
+		<name>전정5</name>
+
+		<studentid>209913</studentid>
+
+		<kor>60</kor>
+
+		<eng>43</eng>
+
+		<mat>28</mat>
+
+	</data>
+
+
+	-
+	<data>
+
+		<name>전정6</name>
+
+		<studentid>209914</studentid>
+
+		<kor>21</kor>
+
+		<eng>42</eng>
+
+		<mat>74</mat>
+
+	</data>
+
+
+	-
+	<data>
+
+		<name>전정7</name>
+
+		<studentid>209915</studentid>
+
+		<kor>6</kor>
+
+		<eng>27</eng>
+
+		<mat>81</mat>
+
+	</data>
+
+
+	-
+	<data>
+
+		<name>전정8</name>
+
+		<studentid>209916</studentid>
+
+		<kor>68</kor>
+
+		<eng>25</eng>
+
+		<mat>61</mat>
+
+	</data>
+
+
+	-
+	<data>
+
+		<name>전정9</name>
+
+		<studentid>209917</studentid>
+
+		<kor>20</kor>
+
+		<eng>51</eng>
+
+		<mat>42</mat>
+
+	</data>
+
+
+	-
+	<data>
+
+		<name>전정249</name>
+
+		<studentid>210157</studentid>
+
+		<kor>66</kor>
+
+		<eng>1</eng>
+
+		<mat>86</mat>
+
+	</data>
+
+</datas>
